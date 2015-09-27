@@ -1,6 +1,6 @@
 # Prompt Commands
 
-# Using learnyounode
+## Using learnyounode
 
 ```
 >npm install -g learnyounode
